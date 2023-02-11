@@ -48,6 +48,7 @@
             android:layout_width="match_parent"
             android:layout_height="165dp"
             android:ems="10"
+            android:enabled="true"
             android:hint="Soy una tabla :)"
             android:inputType="textPersonName"
             android:textColor="#000000"
